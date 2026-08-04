@@ -8,7 +8,7 @@
 
 ## Über mich
 
-Derzeit studiere ich im 2. Jahr des Bachelorstudiengangs an der KNRTU-KAI am Lehrstuhl für Radiophysik und Mikrowellentechnologien (IREF-CDT) in der Fachrichtung „Infokommunikationstechnologien und Kommunikationssysteme“. Zuvor habe ich das Radiomechanische Kolleg Kasan mit Auszeichnung als „Spezialist für elektronische Geräte und Vorrichtungen“ abgeschlossen.
+Derzeit studiere ich im 2. Jahr des Bachelorstudiengangs an der KNITU-KAI am Lehrstuhl für Radiophysik und Mikrowellentechnologien (IREF-CDT) in der Fachrichtung „Infokommunikationstechnologien und Kommunikationssysteme“. Zuvor habe ich das Radiomechanische Kolleg Kasan mit Auszeichnung als „Spezialist für elektronische Geräte und Vorrichtungen“ abgeschlossen.
 
 Meine Hauptspezialisierung liegt in der Entwicklung, den numerischen Berechnungen und der elektrodynamischen Simulation von Funk- und HF-/Mikrowellensystemen. Ich beschäftige mich mit dem Schaltungsentwurf und dem Layout von hochdichten mehrlagigen Leiterplatten (HDI), einschließlich HF-Platinen, Multilayer-Strukturen und planaren Wickelbauteilen. Ich besitze Kenntnisse in der 3D-Konstruktion von HF-/Mikrowellenkomponenten und -baugruppen sowie in der konstruktiven Begleitung von Produkten. Ich führe den gesamten Zyklus der Hardwareentwicklung nach technischen Spezifikationen durch – von der mathematischen Modellierung und Prozesssimulation bis hin zum PCB-Layout und der Erstellung der Konstruktionsdokumentation.
 
