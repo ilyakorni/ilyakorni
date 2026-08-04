@@ -8,7 +8,7 @@
 
 ## About Me
 
-Currently, I am a 2nd-year undergraduate student at KNRTU-KAI, studying at the Department of Radiophysics and Microwave Technologies (IREF-CDT) majoring in "Infocommunication Technologies and Communication Systems". Previously, I graduated with honors from Kazan Radiomechanical College with a degree as a "Specialist in Electronic Devices and Equipment".
+Currently, I am a 2nd-year undergraduate student at KNITU-KAI, studying at the Department of Radiophysics and Microwave Technologies (IREF-CDT) majoring in "Infocommunication Technologies and Communication Systems". Previously, I graduated with honors from Kazan Radiomechanical College with a degree as a "Specialist in Electronic Devices and Equipment".
 
 My key specialization is the design, numerical calculations, and electrodynamic simulation of radio engineering and RF/microwave systems. I am engaged in schematic design and routing of high-density multilayer printed circuit boards, including RF/microwave PCBs, multilayer structures, and planar winding components. I possess skills in 3D design of RF/microwave components and assemblies, as well as product design and engineering support. I carry out the full hardware design cycle based on technical specifications—from mathematical modeling and process simulation to PCB layout design and preparation of design documentation.
 
